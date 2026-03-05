@@ -2,5 +2,6 @@
   "license": "AXION-X03U-JBN3-E05X",
   "status": "active",
   "expires": "lifetime",
-  "hwid": "2df029def8ea6204e6047cacacf4d87f05f126df9a89b8e9bf8b57ecc14d0608"
+  "hwid": null,
+  "last_hwid_reset": "2026-03-05T12:42:22.460654"
 }
