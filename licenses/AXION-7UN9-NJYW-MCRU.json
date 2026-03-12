@@ -2,8 +2,8 @@
   "license": "AXION-7UN9-NJYW-MCRU",
   "status": "active",
   "expires": "2026-03-12T19:10:05.962579",
-  "hwid": "67b52c0ee84e7441c6a86e1283a93efaf0258fc44739bd7a48c32d245ac6863e",
+  "hwid": null,
   "discord_id": "768236963580477460",
   "discord_tag": "trollingparty",
-  "last_hwid_reset": null
+  "last_hwid_reset": "2026-03-12T17:00:53.146565"
 }
