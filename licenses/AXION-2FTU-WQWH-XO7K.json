@@ -2,7 +2,8 @@
   "license": "AXION-2FTU-WQWH-XO7K",
   "status": "active",
   "expires": "2026-04-11T22:53:17.244108",
-  "hwid": "214e279a950fc499595262e3bafb24828029fa492dcc66f9e769ea713b90ddbb",
+  "hwid": null,
   "discord_id": "1437210528840679514",
-  "discord_tag": "weskers_dog"
+  "discord_tag": "weskers_dog",
+  "last_hwid_reset": "2026-03-13T18:09:08.550378"
 }
