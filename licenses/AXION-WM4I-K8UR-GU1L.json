@@ -1,6 +1,9 @@
 {
   "license": "AXION-WM4I-K8UR-GU1L",
   "status": "active",
-  "expires": "pending:1",
-  "hwid": null
+  "expires": "2026-06-04T17:47:28.045456",
+  "hwid": "d3ca1c92e3d374281adca2594ae8990d2c690fc3c009efbd31b2308c4e114f84",
+  "discord_id": "768236963580477460",
+  "discord_tag": "trollingparty",
+  "last_hwid_reset": null
 }
