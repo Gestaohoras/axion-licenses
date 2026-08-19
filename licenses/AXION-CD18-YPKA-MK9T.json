@@ -1,6 +1,9 @@
 {
   "license": "AXION-CD18-YPKA-MK9T",
   "status": "active",
-  "expires": "pending:30",
-  "hwid": null
+  "expires": "2026-09-18T14:26:09.037053",
+  "hwid": "8aba0a4b5a6d4f440136328f9739b2e62b85c5c3efb08d45d18a0bebd5e57e9e",
+  "discord_id": "768236963580477460",
+  "discord_tag": "trollingparty",
+  "last_hwid_reset": null
 }
